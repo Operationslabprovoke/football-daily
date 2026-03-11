@@ -2,133 +2,161 @@
   "top_themes": [
     {
       "theme": "Tottenham's Managerial Crisis",
-      "summary": "Tottenham Hotspur is facing a managerial crisis following a humiliating defeat to Atletico Madrid in the Champions League. Igor Tudor is under immense pressure, with calls for his dismissal growing louder.",
-      "full_analysis": "Tottenham's recent defeat to Atletico Madrid has intensified scrutiny on manager Igor Tudor. The loss, marked by a disastrous first-half performance, has led to public criticism from former players like Jamie O'Hara and current players such as Joe Hart. The club's leadership is conducting an inquest into the team's failures, highlighting the tactical disarray and poor man-management under Tudor. Antonin Kinsky's substitution after 17 minutes added to the turmoil, with Tudor criticized for his handling of the young goalkeeper. This crisis not only affects Tudor's future but also the club's morale and performance in domestic and European competitions.",
+      "summary": "Tottenham Hotspur is in turmoil with Igor Tudor's leadership under intense scrutiny. The club is facing a potential relegation battle due to Tudor's poor start.",
+      "full_analysis": "Igor Tudor's tenure at Tottenham has been disastrous, with the team losing four consecutive matches under his guidance. This has left the club perilously close to the relegation zone, sparking calls for his dismissal. Jamie O'Hara and Joe Hart have been vocal critics, highlighting Tudor's inability to stabilize the team. The decision to appoint Tudor is being questioned as reckless, and his management style has failed to inspire confidence among players and fans. The pressure is mounting as Tottenham's leadership crisis threatens their Premier League status.",
       "supporting_articles": [
         {
-          "headline": "Spurs Crisis: Tudor's Future in Doubt",
+          "headline": "O'Hara Critiques Tudor's Fit for Spurs",
           "source": "skysports",
-          "url": "https://www.skysports.com/football/news/11095/13518159/tottenham-five-key-questions-answered-as-spurs-crisis-continues-under-igor-tudor-after-atletico-madrid-defeat",
-          "quote": "Tottenham are in trouble.",
-          "data_point": "Tottenham's performance in Madrid was described as one of the more embarrassing nights in the club's history."
+          "url": "https://www.skysports.com/watch/video/13518153/who-appointed-tudor-that-needs-to-be-studied-jamie-ohara-he-needs-to-go",
+          "quote": "Igor Tudor is not the answer.",
+          "data_point": "Tudor has lost his first four games as Spurs head coach."
         },
         {
-          "headline": "Tottenham's Igor Tudor Under Fire",
+          "headline": "Tottenham's Leadership Crisis Threatens Relegation",
           "source": "dailymail",
-          "url": "https://www.dailymail.co.uk/sport/football/article-15635735/Tottenham-launch-inquest-Atletico-Madrid-debacle-Igor-Tudor-huge-pressure-talks-former-Premier-League-boss.html",
-          "quote": "Jamie O'Hara has publicly called for Tudor's dismissal, labeling him a 'fraud'.",
-          "data_point": "Igor Tudor is under immense pressure following a poor performance against Atletico Madrid."
+          "url": "https://www.dailymail.co.uk/sport/football/article-15621911/Tottenham-leadership-void-relegation.html",
+          "quote": "Igor Tudor is leading Spurs into a 'death spiral'.",
+          "data_point": "Spurs are perilously close to relegation, sitting one point above the drop zone."
         },
         {
-          "headline": "Tudor Defends Kinsky After Debut Errors",
-          "source": "goalcom",
-          "url": "https://www.goal.com/en/news/after-horror-debut-tudor-defends-his-goalkeeper/blt87f981150af06749",
-          "quote": "Igor Tudor substituted Kinsky in the 17th minute.",
-          "data_point": "Antonin Kinsky made his Champions League debut for Tottenham against Atlético Madrid."
+          "headline": "Spurs' Crisis Deepens After Atletico Thrashing",
+          "source": "bbc",
+          "url": "https://www.bbc.com/sport/football/articles/cly8er8d13mo?at_medium=RSS&at_campaign=rss",
+          "quote": "Paul Robinson criticized Tudor as 'the wrong person at the wrong time.'",
+          "data_point": "Spurs suffered a humiliating 5-2 defeat to Atletico Madrid."
         }
       ],
-      "so_what": "This theme matters as it could lead to a managerial change at Tottenham, affecting their strategy and performance in both domestic and international competitions. Fans should watch for potential shifts in coaching staff and tactics as the club seeks to stabilize.",
+      "so_what": "Tottenham's crisis could lead to a managerial change and a potential player exodus if relegation becomes a reality. Fans should watch for how the club addresses this leadership void and whether Tudor can turn things around quickly.",
       "sources": [
         "skysports",
         "dailymail",
-        "goalcom"
+        "bbc"
       ]
     },
     {
-      "theme": "Ajax's Market Value Challenges",
-      "summary": "Ajax is experiencing a decline in market values amidst poor results, though young talents like Mika Godts provide some hope. The club's financial and sporting strategies are under scrutiny.",
-      "full_analysis": "Ajax's market values have been negatively impacted by disappointing performances this season, with several players seeing a decline in their worth. However, young talents like Mika Godts and Youri Baas have shown promise, with Godts' value increasing by ten million euros. The club's reliance on nurturing young talent is evident, but the overall market value drop indicates broader issues in team performance and strategy. This situation highlights the importance of balancing player development with immediate results, as Ajax seeks to maintain its competitive edge in the Eredivisie and European competitions.",
+      "theme": "Liverpool's European Struggles",
+      "summary": "Liverpool's recent defeats in the Champions League have raised concerns about their ability to progress. Arne Slot's side is under pressure after losing to Galatasaray twice.",
+      "full_analysis": "Liverpool's Champions League campaign is faltering after back-to-back losses to Galatasaray. The team's defensive frailties and lack of creativity in attack have been exposed, with Mario Lemina's early goal in Istanbul highlighting these issues. Arne Slot, in his 100th game as manager, faces criticism for failing to adapt tactically. The English media has been unforgiving, and the pressure is mounting on Slot to find solutions before the second leg. Liverpool's struggles in Europe could impact their domestic form and Slot's future at the club.",
       "supporting_articles": [
         {
-          "headline": "Ajax Market Values Plummet Amid Poor Results",
+          "headline": "Liverpool Stumbles in Istanbul Against Galatasaray",
           "source": "voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/teleurstellende-resultaten-drukken-ajax-marktwaardes-toch-nog-enkele-lichtpuntjes/blt7a44fabfebf703bc",
-          "quote": "Mika Godts' market value has surged by ten million euros to 25 million euros.",
-          "data_point": "Oleksandr Zinchenko's value dropped the most, decreasing by five million euros to ten million euros."
+          "url": "https://www.voetbalzone.nl/nieuws/engelse-media-oordelen-hard-over-liverpool-en-arne-slot-dit-team-komt-nergens-dit-seizoen/blt9609957f5f0677db",
+          "quote": "Mario Lemina's early strike proved decisive.",
+          "data_point": "Liverpool lost 1-0 to Galatasaray in the Champions League round of 16 first leg."
+        },
+        {
+          "headline": "Liverpool Stumbles Again in Istanbul",
+          "source": "skysports",
+          "url": "https://www.skysports.com/football/galatasaray-vs-liverpool/report/554902",
+          "quote": "Laboured Liverpool defeated by Galatasaray in Istanbul again.",
+          "data_point": "Arne Slot's 100th game as Liverpool boss ends in defeat."
         }
       ],
-      "so_what": "This theme is crucial for understanding Ajax's current challenges and the potential need for strategic adjustments. The club's ability to recover market value will impact its financial health and competitiveness in the transfer market.",
+      "so_what": "Liverpool's European form could have significant implications for their season, affecting morale and potentially leading to managerial changes if they fail to progress. Fans should watch for tactical adjustments and player performances in upcoming matches.",
       "sources": [
-        "voetbalzone"
+        "voetbalzone",
+        "skysports"
       ]
     },
     {
-      "theme": "PSV's Rising Stars",
-      "summary": "PSV Eindhoven is witnessing significant market value increases for players like Ricardo Pepi and Noah Fernandez. This reflects the club's successful player development and scouting strategies.",
-      "full_analysis": "PSV's focus on player development is paying off, with Ricardo Pepi and Noah Fernandez seeing substantial increases in their market values. Pepi's value rose by 66.7% to 25 million euros, while Fernandez's value surged by 150%. These increases highlight PSV's effective scouting and development programs, positioning the club as a key player in the transfer market. The club's ability to nurture talent and increase player value is crucial for its financial stability and competitiveness in the Eredivisie and European competitions. This trend underscores the importance of investing in young talent for long-term success.",
+      "theme": "Newcastle's European Ambitions",
+      "summary": "Newcastle United's draw against Barcelona in the Champions League has sparked optimism about their potential to advance. Harvey Barnes' performance has been particularly noteworthy.",
+      "full_analysis": "Newcastle's 1-1 draw with Barcelona showcased their resilience and tactical discipline, with Harvey Barnes scoring a crucial late goal. The team's ability to limit Barcelona's chances and disrupt their rhythm reflects Eddie Howe's effective management. Newcastle's pressing game and self-belief have been key factors in their European campaign. As they prepare for the second leg at Camp Nou, the Magpies are confident in their ability to outplay Barcelona again and reach the quarter-finals.",
       "supporting_articles": [
         {
-          "headline": "PSV Stars Pepi and Fernandez Surge in Value",
-          "source": "voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/nieuwe-marktwaardes-psv-ziet-twee-spelers-procentueel-fors-stijgen/blt5d16f1ce69e4b0a3",
-          "quote": "Ricardo Pepi's market value increased by 66.7%, now at 25 million euros.",
-          "data_point": "Noah Fernandez's value surged by 150%."
+          "headline": "Newcastle's Late Draw with Barcelona",
+          "source": "skysports",
+          "url": "https://www.skysports.com/watch/video/13518088/late-heartbreak-but-positives-for-eddie-howe-newcastle-verdict",
+          "quote": "The result was a mix of late heartbreak and positives for Newcastle.",
+          "data_point": "Newcastle secured a 1-1 draw against Barcelona in the Champions League."
+        },
+        {
+          "headline": "Barnes: Newcastle Can Outplay Barca Again",
+          "source": "guardian",
+          "url": "https://www.theguardian.com/football/2026/mar/11/harvey-barnes-newcastle-barcelona-camp-nou-champions-league",
+          "quote": "Newcastle limited Barcelona to nine shots and an expected goals of 0.46.",
+          "data_point": "Harvey Barnes scored in the first leg, which ended 1-1."
         }
       ],
-      "so_what": "This theme highlights PSV's strong position in developing and capitalizing on young talent. It reinforces the club's strategy of building a competitive team through effective player development, which fans and investors should watch closely.",
+      "so_what": "Newcastle's strong performance against Barcelona signals their growing stature in European football. Fans should watch for their tactical approach in the second leg and the potential impact on their domestic form.",
       "sources": [
-        "voetbalzone"
+        "skysports",
+        "guardian"
       ]
     }
   ],
   "emerging_trends": [
     {
       "trend": "Managerial Instability",
-      "summary": "Recent events at Tottenham highlight a growing trend of managerial instability in top clubs. This reflects the increasing pressure on managers to deliver immediate results.",
-      "full_analysis": "The situation with Igor Tudor at Tottenham is emblematic of a broader trend in football where managers face intense scrutiny and short tenures. This instability is driven by high expectations from club owners and fans, as well as the financial stakes involved in top-flight football. Historically, clubs have shown less patience with managers, often opting for quick changes in hopes of turning around poor performances. This trend affects club morale, player performance, and long-term strategic planning, as frequent managerial changes can disrupt team cohesion and development.",
+      "summary": "The recent sackings and pressure on managers highlight a growing trend of instability in football leadership. Clubs are quick to change managers in response to poor results.",
+      "full_analysis": "In recent weeks, several managers, including Tottenham's Igor Tudor and Walsall's Mat Sadler, have faced intense scrutiny or been dismissed due to poor performances. This reflects a broader trend in football where clubs are increasingly impatient for results, leading to frequent managerial changes. The pressure to achieve immediate success is driving this instability, affecting team morale and long-term planning. As clubs seek quick fixes, the role of a football manager becomes more precarious, with job security diminishing.",
       "supporting_articles": [
         {
-          "headline": "Tottenham's Igor Tudor Under Fire",
+          "headline": "Walsall Part Ways with Coach Sadler",
+          "source": "bbc",
+          "url": "https://www.bbc.com/sport/football/articles/cn0exygeryko?at_medium=RSS&at_campaign=rss",
+          "quote": "Walsall have sacked head coach Mat Sadler after a poor run of form.",
+          "data_point": "Walsall have only one win in their past 11 League Two matches."
+        },
+        {
+          "headline": "Tottenham's Leadership Crisis Threatens Relegation",
           "source": "dailymail",
-          "url": "https://www.dailymail.co.uk/sport/football/article-15635735/Tottenham-launch-inquest-Atletico-Madrid-debacle-Igor-Tudor-huge-pressure-talks-former-Premier-League-boss.html",
-          "quote": "Tottenham's leadership is scrutinizing Igor Tudor after a disastrous showing against Atletico Madrid.",
-          "data_point": "Jamie O'Hara has publicly called for Tudor's dismissal, labeling him a 'fraud'."
+          "url": "https://www.dailymail.co.uk/sport/football/article-15621911/Tottenham-leadership-void-relegation.html",
+          "quote": "Igor Tudor is leading Spurs into a 'death spiral'.",
+          "data_point": "Spurs are perilously close to relegation, sitting one point above the drop zone."
         }
       ],
-      "so_what": "This trend suggests that clubs may need to reevaluate their approach to managerial appointments and support. Stability and long-term planning could become more valued as clubs seek sustainable success.",
+      "so_what": "This trend could lead to a more volatile coaching market, with clubs frequently changing managers in search of success. Fans should expect more managerial turnover and its impact on team performance and stability.",
       "sources": [
+        "bbc",
         "dailymail"
       ]
     },
     {
-      "trend": "Youth Development Focus",
-      "summary": "Clubs like Ajax and PSV are increasingly focusing on youth development to enhance their competitive edge and financial stability. This trend is shaping the future of club strategies.",
-      "full_analysis": "The emphasis on youth development at clubs like Ajax and PSV reflects a strategic shift towards nurturing homegrown talent. This approach not only provides a financial advantage by increasing player market values but also ensures a steady pipeline of talent for first-team squads. Historically, clubs with strong youth academies have enjoyed sustained success, as seen with Barcelona's La Masia. This trend is driven by the rising costs of the transfer market and the need for clubs to balance financial sustainability with on-field success. It affects how clubs allocate resources and prioritize long-term planning over short-term gains.",
+      "trend": "Youth Integration in Top Clubs",
+      "summary": "Top clubs are increasingly focusing on integrating young talents into their squads, reflecting a shift towards long-term squad building and financial prudence.",
+      "full_analysis": "Clubs like Ajax and Feyenoord are actively seeking to integrate young talents into their first teams, as seen with Demy de Zeeuw's interest in a role at Ajax and Feyenoord signing a promising Heerenveen talent. This trend is driven by the need for financial sustainability and the desire to develop homegrown stars who can contribute to the club's success. The focus on youth development also aligns with the changing dynamics of the transfer market, where inflated fees make it challenging to acquire established stars.",
       "supporting_articles": [
         {
-          "headline": "Ajax Market Values Plummet Amid Poor Results",
+          "headline": "Demy de Zeeuw Eyes Role at Ajax",
           "source": "voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/teleurstellende-resultaten-drukken-ajax-marktwaardes-toch-nog-enkele-lichtpuntjes/blt7a44fabfebf703bc",
-          "quote": "Mika Godts' market value has surged by ten million euros to 25 million euros.",
-          "data_point": "Youri Baas' value increased to 20 million euros, marking his highest valuation yet."
+          "url": "https://www.voetbalzone.nl/nieuws/volgende-oudgediende-wil-aan-de-slag-bij-ajax-natuurlijk-heb-ik-daar-verstand-van/bltdaac5e41b343e31b",
+          "quote": "Demy de Zeeuw is open to a role at Ajax, leveraging his media and football expertise.",
+          "data_point": "De Zeeuw co-founded the international football platform 433, reaching millions of fans."
         },
         {
-          "headline": "PSV Stars Pepi and Fernandez Surge in Value",
-          "source": "voetbalzone",
-          "url": "https://www.voetbalzone.nl/nieuws/nieuwe-marktwaardes-psv-ziet-twee-spelers-procentueel-fors-stijgen/blt5d16f1ce69e4b0a3",
-          "quote": "Ricardo Pepi's market value increased by 66.7%, now at 25 million euros.",
-          "data_point": "Noah Fernandez's value surged by 150%."
+          "headline": "Heerenveen Talent Joins Feyenoord",
+          "source": "vi",
+          "url": "https://www.vi.nl/nieuws/transfers-feyenoord-dossiers-read-en-hadj-moussa-wachten-op-van-wonderen",
+          "quote": "A promising Heerenveen talent signs a multi-year contract with Feyenoord.",
+          "data_point": "The player has signed a multi-year contract."
         }
       ],
-      "so_what": "This trend highlights the importance of investing in youth academies for long-term club success. Fans and stakeholders should expect more clubs to adopt similar strategies, potentially reshaping the transfer market dynamics.",
+      "so_what": "This trend could lead to a more sustainable model for clubs, reducing reliance on expensive transfers and fostering a stronger connection with fans through homegrown talents. Fans should watch for emerging young stars and their impact on team dynamics.",
       "sources": [
-        "voetbalzone"
+        "voetbalzone",
+        "vi"
       ]
     }
   ],
   "biggest_story": {
-    "headline": "Tottenham's Igor Tudor Faces Sack",
-    "summary": "Igor Tudor's position as Tottenham's manager is under severe scrutiny following a humiliating Champions League defeat to Atletico Madrid. The club's leadership is conducting an inquest into recent failures, with public calls for Tudor's dismissal growing louder. This situation has put Tottenham in a state of turmoil, affecting team morale and performance.",
+    "headline": "Tottenham's Leadership Crisis Threatens Relegation",
+    "summary": "Tottenham Hotspur's leadership crisis under Igor Tudor is pushing the club towards a potential relegation battle. Tudor's poor start, with four consecutive losses, has left the team just one point above the drop zone. The decision to appoint Tudor is being heavily criticized, and there are calls for his dismissal to prevent further decline. This story highlights the urgent need for Spurs to address their managerial issues to avoid the unthinkable: relegation from the Premier League.",
     "source": "dailymail",
-    "why_it_matters": "This story is crucial as it could lead to significant changes in Tottenham's management and strategy, impacting their performance in domestic and international competitions."
+    "why_it_matters": "Tottenham's potential relegation would have massive implications for the club's financial health, player retention, and fan morale."
   },
-  "thirty_day_outlook": "Over the next 30 days, the focus will be on Tottenham's managerial situation, with potential changes in leadership affecting their Premier League and Champions League campaigns. The transfer market will also be in the spotlight as clubs like Ajax and PSV look to capitalize on rising player values. Additionally, international breaks will provide opportunities for players to make their mark on the national stage, with injuries and form playing a critical role in squad selections. Fans should watch for developments in these areas as clubs navigate the challenges of the season.",
-  "generated_at": "2026-03-11T14:58:09.737432+00:00",
-  "article_count": 18,
+  "thirty_day_outlook": "In the next 30 days, the focus will be on Tottenham's response to their managerial crisis and whether Igor Tudor can turn the tide. The Champions League will see crucial second-leg matches, with Liverpool needing to overcome Galatasaray and Newcastle aiming to outplay Barcelona. The domestic leagues will continue to heat up as title races and relegation battles intensify. Transfer market activity may also pick up as clubs look to strengthen their squads ahead of the summer window. Fans should watch for key managerial changes and their impact on team performances.",
+  "generated_at": "2026-03-11T15:22:04.829896+00:00",
+  "article_count": 35,
   "sources": [
+    "bbc",
     "dailymail",
-    "goalcom",
+    "espn",
+    "guardian",
     "skysports",
+    "vi",
     "voetbalzone"
   ]
 }
